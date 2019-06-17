@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="day15_Junne_maven_mapper:war exploded">
+    <output-path>$PROJECT_DIR$/day15_Junne_maven_parent/day15_Junne_maven_mapper/target/day15_Junne_maven_mapper-1.0-SNAPSHOT</output-path>
+    <root id="root" />
+  </artifact>
+</component>
